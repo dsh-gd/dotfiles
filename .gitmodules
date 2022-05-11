@@ -1,0 +1,25 @@
+[submodule "dotbot"]
+	path = dotbot
+	url = https://github.com/anishathalye/dotbot
+	ignore = dirty
+[submodule "vim/pack/vendor/start/auto-pairs"]
+	path = vim/pack/vendor/start/auto-pairs
+	url = https://github.com/jiangmiao/auto-pairs
+[submodule "vim/pack/vendor/start/vim-surround"]
+	path = vim/pack/vendor/start/vim-surround
+	url = https://github.com/tpope/vim-surround
+[submodule "vim/pack/vendor/start/vim-commentary"]
+	path = vim/pack/vendor/start/vim-commentary
+	url = https://github.com/tpope/vim-commentary
+[submodule "vim/pack/vendor/start/vim-repeat"]
+	path = vim/pack/vendor/start/vim-repeat
+	url = https://github.com/tpope/vim-repeat
+[submodule "vim/pack/vendor/start/ultisnips"]
+	path = vim/pack/vendor/start/ultisnips
+	url = https://github.com/SirVer/ultisnips
+[submodule "vim/pack/vendor/start/vim-snippets"]
+	path = vim/pack/vendor/start/vim-snippets
+	url = https://github.com/honza/vim-snippets
+[submodule "zsh/plugins/zsh-syntax-highlighting"]
+	path = zsh/plugins/zsh-syntax-highlighting
+	url = https://github.com/zsh-users/zsh-syntax-highlighting
