@@ -3,7 +3,7 @@
 ### Installation
 
 ```sh
-git clone https://github.com/dmytroshurko/dotfiles.git .dotfiles
+git clone https://github.com/dsh-gd/dotfiles.git .dotfiles
 cd .dotfiles
 ./install
 ```
